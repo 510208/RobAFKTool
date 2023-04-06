@@ -1,0 +1,11 @@
+c:\users\a201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\bin\Debug\RobAFKTool.exe.config
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\bin\Debug\RobAFKTool.exe
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\bin\Debug\RobAFKTool.pdb
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\bin\Debug\RobAFKTool.xml
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.Form1.resources
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.Resources.resources
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.vbproj.GenerateResource.Cache
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.exe
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.xml
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.pdb
+C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.frmSetting.resources

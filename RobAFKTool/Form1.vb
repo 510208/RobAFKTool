@@ -1,6 +1,9 @@
 ﻿Public Class Form1
+    ' 主程式碼
+
     Dim afkTime As Long
     Dim clickKeyBoard As String
+
     Private Sub NotifyIcon1_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles NotifyIcon1.MouseDoubleClick
         Me.Show()
         NotifyIcon1.Visible = False
@@ -24,6 +27,7 @@
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         NotifyIcon1.Icon = Me.Icon
         Timer1.Enabled = False
+        ' 設定Hook
     End Sub
 
     Private Sub btnStartAFK_Click(sender As Object, e As EventArgs) Handles btnStartAFK.Click

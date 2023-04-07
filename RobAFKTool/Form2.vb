@@ -12,4 +12,8 @@ Public Class frmSetting
     Private Sub btnSave_Click(sender As Object, e As EventArgs) Handles btnSave.Click
         Me.Hide()
     End Sub
+
+    Private Sub llblAbout_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles llblAbout.LinkClicked
+        frmAbout.Show()
+    End Sub
 End Class

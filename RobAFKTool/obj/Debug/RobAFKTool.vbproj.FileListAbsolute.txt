@@ -9,3 +9,16 @@ C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\De
 C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.xml
 C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.pdb
 C:\Users\A201\documents\visual studio 2013\Projects\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.frmSetting.resources
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\bin\Debug\RobAFKTool.exe.config
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.exe
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.xml
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.pdb
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\bin\Debug\RobAFKTool.exe
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\bin\Debug\RobAFKTool.pdb
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\bin\Debug\RobAFKTool.xml
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.Form1.resources
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.frmSetting.resources
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.Resources.resources
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.vbproj.GenerateResource.Cache
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.frmAbout.resources
+C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.Form3.resources

@@ -36,9 +36,10 @@ Partial Class Form1
         Me.frmMainGUI.BackColor = System.Drawing.Color.White
         Me.frmMainGUI.Image = Global.RobAFKTool.My.Resources.Resources.taskbar
         Me.frmMainGUI.ImageAlign = System.Drawing.ContentAlignment.TopCenter
-        Me.frmMainGUI.Location = New System.Drawing.Point(401, 12)
+        Me.frmMainGUI.Location = New System.Drawing.Point(267, 8)
+        Me.frmMainGUI.Margin = New System.Windows.Forms.Padding(2)
         Me.frmMainGUI.Name = "frmMainGUI"
-        Me.frmMainGUI.Size = New System.Drawing.Size(123, 129)
+        Me.frmMainGUI.Size = New System.Drawing.Size(82, 86)
         Me.frmMainGUI.TabIndex = 3
         Me.frmMainGUI.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "後臺運行(&B)"
         Me.frmMainGUI.TextAlign = System.Drawing.ContentAlignment.BottomCenter
@@ -49,9 +50,10 @@ Partial Class Form1
         Me.btnSettings.BackColor = System.Drawing.Color.White
         Me.btnSettings.Image = Global.RobAFKTool.My.Resources.Resources.settings_svgrepo_com
         Me.btnSettings.ImageAlign = System.Drawing.ContentAlignment.TopCenter
-        Me.btnSettings.Location = New System.Drawing.Point(272, 12)
+        Me.btnSettings.Location = New System.Drawing.Point(181, 8)
+        Me.btnSettings.Margin = New System.Windows.Forms.Padding(2)
         Me.btnSettings.Name = "btnSettings"
-        Me.btnSettings.Size = New System.Drawing.Size(123, 129)
+        Me.btnSettings.Size = New System.Drawing.Size(82, 86)
         Me.btnSettings.TabIndex = 2
         Me.btnSettings.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "掛機設定(&S)"
         Me.btnSettings.TextAlign = System.Drawing.ContentAlignment.BottomCenter
@@ -63,9 +65,10 @@ Partial Class Form1
         Me.btnStopAFK.Enabled = False
         Me.btnStopAFK.Image = Global.RobAFKTool.My.Resources.Resources.buildtype_14px_svgrepo_com
         Me.btnStopAFK.ImageAlign = System.Drawing.ContentAlignment.TopCenter
-        Me.btnStopAFK.Location = New System.Drawing.Point(142, 12)
+        Me.btnStopAFK.Location = New System.Drawing.Point(95, 8)
+        Me.btnStopAFK.Margin = New System.Windows.Forms.Padding(2)
         Me.btnStopAFK.Name = "btnStopAFK"
-        Me.btnStopAFK.Size = New System.Drawing.Size(124, 129)
+        Me.btnStopAFK.Size = New System.Drawing.Size(83, 86)
         Me.btnStopAFK.TabIndex = 1
         Me.btnStopAFK.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "結束掛機(F9)"
         Me.btnStopAFK.TextAlign = System.Drawing.ContentAlignment.BottomCenter
@@ -76,9 +79,10 @@ Partial Class Form1
         Me.btnStartAFK.BackColor = System.Drawing.Color.White
         Me.btnStartAFK.Image = Global.RobAFKTool.My.Resources.Resources.run_svgrepo_com1
         Me.btnStartAFK.ImageAlign = System.Drawing.ContentAlignment.TopCenter
-        Me.btnStartAFK.Location = New System.Drawing.Point(12, 12)
+        Me.btnStartAFK.Location = New System.Drawing.Point(8, 8)
+        Me.btnStartAFK.Margin = New System.Windows.Forms.Padding(2)
         Me.btnStartAFK.Name = "btnStartAFK"
-        Me.btnStartAFK.Size = New System.Drawing.Size(124, 129)
+        Me.btnStartAFK.Size = New System.Drawing.Size(83, 86)
         Me.btnStartAFK.TabIndex = 0
         Me.btnStartAFK.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "開始掛機(F9)"
         Me.btnStartAFK.TextAlign = System.Drawing.ContentAlignment.BottomCenter
@@ -89,17 +93,21 @@ Partial Class Form1
         Me.NotifyIcon1.Text = "NotifyIcon1"
         Me.NotifyIcon1.Visible = True
         '
+        'Timer1
+        '
+        '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 18.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(536, 153)
+        Me.ClientSize = New System.Drawing.Size(357, 102)
         Me.Controls.Add(Me.frmMainGUI)
         Me.Controls.Add(Me.btnSettings)
         Me.Controls.Add(Me.btnStopAFK)
         Me.Controls.Add(Me.btnStartAFK)
+        Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "Form1"
-        Me.Text = "RAFKT Main"
+        Me.Text = "RobAFKTool Main"
         Me.ResumeLayout(False)
 
     End Sub

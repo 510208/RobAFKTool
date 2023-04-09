@@ -9,6 +9,6 @@
     End Sub
 
     Private Sub btnMySite_Click(sender As Object, e As EventArgs) Handles btnMySite.Click
-        Form3.Show()
+        SiteBrowser.Show()
     End Sub
 End Class

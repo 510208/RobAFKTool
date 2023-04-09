@@ -6,7 +6,14 @@ RobAFKTool
 </name>
 </assembly>
 <members>
-<member name="P:RobAFKTool.My.Resources.Resources.ResourceManager">
+<member name="M:RobAFKTool.frmSetting.DoCmd(System.String)">
+	<summary>
+ 傳入命令列指令，回傳命令列的結果
+ </summary>
+	<param name="strCmd">命列的指令</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:RobAFKTool.My.Resources.Resources.ResourceManager">
 	<summary>
   傳回這個類別使用的快取的 ResourceManager 執行個體。
 </summary>

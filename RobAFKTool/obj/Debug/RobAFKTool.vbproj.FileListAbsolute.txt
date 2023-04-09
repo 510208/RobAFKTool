@@ -22,3 +22,16 @@ C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobA
 C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.vbproj.GenerateResource.Cache
 C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.frmAbout.resources
 C:\Users\202\Downloads\RobAFKTool-main\RobAFKTool-main\RobAFKTool\obj\Debug\RobAFKTool.Form3.resources
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\bin\Debug\RobAFKTool.exe.config
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.exe
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.xml
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.pdb
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\bin\Debug\RobAFKTool.exe
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\bin\Debug\RobAFKTool.pdb
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\bin\Debug\RobAFKTool.xml
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.frmAbout.resources
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.Main.resources
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.frmSetting.resources
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.SiteBrowser.resources
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.Resources.resources
+C:\Users\acer\Documents\RAFKT\RobAFKTool\RobAFKTool\obj\Debug\RobAFKTool.vbproj.GenerateResource.Cache
